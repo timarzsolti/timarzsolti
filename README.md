@@ -1,5 +1,5 @@
 ## Hi there 👋
-## [My website](timarzsolt.hu)
+## [My website](https://timarzsolt.hu)
 <!--
 **timarzsolti/timarzsolti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
